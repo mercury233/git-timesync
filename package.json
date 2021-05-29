@@ -1,0 +1,14 @@
+{
+  "name": "git-timesync-cli",
+  "version": "1.0.0",
+  "description": "A tool to synchronize the last modification time of files to the time of git commits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "bin": {
+    "git-timesync": "index.js"
+  },
+  "author": "Mercury233",
+  "license": "ISC"
+}
